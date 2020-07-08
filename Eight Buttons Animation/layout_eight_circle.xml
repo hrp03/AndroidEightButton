@@ -1,0 +1,119 @@
+<!--
+Create By : Himanshu Prajapati
+Date : 31-05-2017
+ -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgHome"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/icon_home"
+        android:scaleType="fitXY"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bg_circle"
+        />
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddOne"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddTwo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddThree"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddFour"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddFive"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddSix"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddSeven"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/imgAddEight"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_add"
+        android:scaleType="fitXY"
+        android:background="@drawable/bg_circle"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
